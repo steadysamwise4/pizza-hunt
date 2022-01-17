@@ -1,16 +1,17 @@
 {
-  "name": "18-nosql",
+  "name": "pizza-hunt",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "online course led social media back-end. set up in order to learn and practice MongoDB.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sam Davenport",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^6.1.7"
   }
 }
